@@ -1,6 +1,6 @@
 # 👋 Salam, I'm Mohammed Elgasim  
 
-🎯 **Software Developer** | React.js • Next.js • Odoo  
+🎯 **Software Developer** | JS/TS • React.js • Next.js • Odoo 
 💡 Passionate about building clean, responsive, and user-friendly web applications.  
 🌱 Currently exploring **Odoo ERP** and deepening my skills in **React & Next**.  
 
